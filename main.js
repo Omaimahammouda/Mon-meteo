@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const apiKey = "eeae1bba7c22e2354e31541e065d8639";
+    const apiKey = "e8e2d2d2fc10a1f2c056af954f0ab247";
     const apiUrl = "https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
     const searchBox = document.querySelector(".search input");
     const searchBtn = document.querySelector(".search button");
