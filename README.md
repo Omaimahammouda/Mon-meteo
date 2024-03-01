@@ -27,3 +27,6 @@ Bienvenue dans mon application météo ! Cette application vous permet de recher
 OMAIMA HAMMOUDA
 
 Si vous avez des questions, des commentaires ou des suggestions, n'hésitez pas à me contacter à hammoudaomaima063@gmail.com
+## NB:
+Avant d'exécuter l'application, veuillez générer une clé API depuis le site (https://openweathermap.org/)
+Cette clé API sera utilisée pour accéder aux données météorologiques nécessaires au bon fonctionnement de l'application.
